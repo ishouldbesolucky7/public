@@ -1,8 +1,8 @@
-Privacy Policy for MyFavs
+Privacy Policy for AllTimeFavs
 Effective date: December 20, 2025
 
 Introduction
-MyFavs ("we", "us", "the App") values your privacy. This Privacy Policy explains what information we collect, how we use it, who we share it with, how long we keep it, and your rights. By using MyFavs you agree to the practices described here.
+AllTimeFavs ("we", "us", "the App") values your privacy. This Privacy Policy explains what information we collect, how we use it, who we share it with, how long we keep it, and your rights. By using AllTimeFavs you agree to the practices described here.
 
 Data We Collect
 - Identifiers: account `id`, user UUID, `spotify_id` (if you import from Spotify), device identifiers limited to what the OS provides.
@@ -67,7 +67,7 @@ We may update this policy. We will post the updated policy with a new effective 
 
 Contact
 For privacy questions or to exercise your rights, contact:
-Email: privacy@myfavs.example.com
+Email: privacy@AllTimeFavs.example.com
 Address: [replace with mailing address if required]
 
 App Store Data Declaration (quick checklist for App Store Connect)
@@ -79,5 +79,6 @@ App Store Data Declaration (quick checklist for App Store Connect)
 - Tracking: No (unless you add tracking SDKs).
 
 Notes and Next Steps
-- Replace `MyFavs` and contact details with your project name and real support email/address before publishing.
+- Replace `AllTimeFavs` and contact details with your project name and real support email/address before publishing.
 - If you add analytics, ads, or tracking SDKs, update this policy and App Store Connect declarations accordingly.
+
